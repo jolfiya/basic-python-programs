@@ -1,0 +1,59 @@
+x=5
+y=2
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x**y)
+print(x//y)
+l=6
+m=3
+print(l<m)
+print(l>m)
+print(l==m)
+print(l!=m)
+print(l<=m)
+print(l>=m)
+n=4
+n+=4
+print(n)
+n-=2
+print(n)
+o=6
+o-=2
+print(o)
+p=8
+p*=2
+print(p)
+q=6
+q/=3
+print(q)
+r=4
+r%=2
+print(r)
+s=3
+s//=1
+print(s)
+t=4
+t**=2
+print(t)
+u=8
+u&=4
+print(u)
+g=6
+g/=2
+print(g)
+a=7
+a^=4
+print(a)
+b=6
+b>>=3
+print(b)
+c=5
+c<<=1
+print(c)
+k="types of operators in python"
+print("in" in k)
+print("are" in k)
+print("is" not in k)
+print("are" not in k)
